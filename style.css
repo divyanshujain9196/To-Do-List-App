@@ -1,8 +1,11 @@
 body {
-    margin: 10px auto;
-    min-width: 250px;
-    height:100vh;
-    max-width: 50%;
+     width: 70%;
+    height: 100vh;
+    align-items: center;
+    position: relative;
+    margin: 100px auto;
+    min-width: 500px;
+    max-width: 100%;
     background-color: black;
   }
   * {
